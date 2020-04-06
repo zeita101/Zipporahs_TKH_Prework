@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/zeita101/Zipporahs_TKH_Prework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="HTML5 Icon" width="500" height="162.5">
 
-### Markdown
+<h1>Zipporah Najar</h1>
+<p><b>Why are you interested in becoming a TKH Innovation Fellow?</b></p>
+<p> I enjoy storytelling, graphic design, playing instruments, research and writing. One of my hobbies is learning. I spend a lot of my time online learning from courses in various categories and in-person at workshops, seminars, and conferences. A lot of my free time also goes to volunteering for organizations like 365 SOUL & The Salvation Army. 
+My future goals are to potentially start a career with the web development experience I will receive at The Knowledge House. 
+I can add my natural curiosity and gifts for encouragement & team building to the classroom. </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeita101/Zipporahs_TKH_Prework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>My goal for 2020 is to complete The Knowledge House Innovation Fellowship with excellence and full understanding of Web Development and to land an entry level job at a high paying tech company within 3 months of the completion of the program; and eventually implement my dream program, Engineers In Residence.</p>
+</body>
+<title>Title of the document</title>
+      <style>
+         .button {
+         background-color: #f9728c;
+         border: none;
+         color: white;
+         padding: 18px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+      </style>
+   </head>
+   <body>
+      <a href="https://www.linkedin.com/in/zipporah-najar-94bb9b140/v" class="button">Zipporah LinkedIn</a>
+   </body>
+ 
+</div>
+</html>
